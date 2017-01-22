@@ -36,6 +36,16 @@ export default {
       key: 'phaser',
       url: 'img/phaser.png',
       type: 'image'
+    },
+    {
+      key: 'chipBlackWhite',
+      url: 'img/chipBlackWhite.png',
+      type: 'image'
+    },
+    {
+      key: 'chipBlue',
+      url: 'img/chipBlue.png',
+      type: 'image'
     }
 
     // Example: adding a background music.
